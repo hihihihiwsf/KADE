@@ -8,7 +8,7 @@ python read_document.py
 #Process eventstoryline data
 ''python preprocess_bert.py''
 
-# knowledge aware
+#knowledge aware
 ''python preprocess_concept.py''
 
 #BERT baseline
