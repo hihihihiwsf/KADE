@@ -1,7 +1,7 @@
 # KADE
 
 # EventStoryLine
-# Prepare data:
+#Prepare data:
 ''
 python read_document.py
 ''
